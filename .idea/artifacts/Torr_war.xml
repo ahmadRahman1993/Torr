@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Torr:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Torr.war">
+      <element id="artifact" artifact-name="Torr:war exploded" />
+    </root>
+  </artifact>
+</component>
